@@ -1,0 +1,1 @@
+Add-LocalGroupMember -Group "Administrators" -Member "AzureAD\franco.campese@alcority.com", "AzureAD\sam.dewind@alcority.com", "AzureAD\adam.walters@alcority.com", "AzureAD\matthew.kibildis@alcority.com", "AzureAD\chris.swart@alcority.com"

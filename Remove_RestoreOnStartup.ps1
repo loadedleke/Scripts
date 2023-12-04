@@ -1,0 +1,1 @@
+﻿reg.exe delete "HKLM\Software\Policies\Microsoft\Edge" /v RestoreOnStartup /f
